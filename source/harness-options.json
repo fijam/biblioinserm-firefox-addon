@@ -1,0 +1,47 @@
+{
+ "enable_e10s": false, 
+ "is-sdk-bundled": true, 
+ "jetpackID": "jid0-rhvBggsUc9lAtBR7uau1K7LD19M@jetpack", 
+ "loader": "addon-sdk/lib/sdk/loader/cuddlefish.js", 
+ "main": "main", 
+ "mainPath": "biblioinserm-sdk-17/main", 
+ "manifest": {
+  "biblioinserm-sdk-17/main": {
+   "docsSHA256": null, 
+   "jsSHA256": "1b6979a3862bfc4df69a59e17eb506c1c44fb1f906ef710983eb4b5e46a6d62b", 
+   "moduleName": "main", 
+   "packageName": "biblioinserm-sdk-17", 
+   "requirements": {
+    "sdk/context-menu": "sdk/context-menu", 
+    "sdk/tabs": "sdk/tabs"
+   }, 
+   "sectionName": "lib"
+  }
+ }, 
+ "metadata": {
+  "addon-sdk": {
+   "description": "Add-on development made easy.", 
+   "keywords": [
+    "javascript", 
+    "engine", 
+    "addon", 
+    "extension", 
+    "xulrunner", 
+    "firefox", 
+    "browser"
+   ], 
+   "license": "MPL 2.0", 
+   "name": "addon-sdk"
+  }, 
+  "biblioinserm-sdk-17": {
+   "author": "fijam", 
+   "main": "main", 
+   "name": "biblioinserm-sdk-17", 
+   "version": "copy.rev5"
+  }
+ }, 
+ "name": "biblioinserm-sdk-17", 
+ "sdkVersion": "1.14", 
+ "staticArgs": {}, 
+ "verbose": false
+}
